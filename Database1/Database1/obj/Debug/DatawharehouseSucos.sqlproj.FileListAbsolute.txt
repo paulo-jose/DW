@@ -1,0 +1,5 @@
+C:\Users\paulo\OneDrive\Documents\Projetos\sucos\Database1\Database1\bin\Debug\DatawharehouseSucos.dacpac
+C:\Users\paulo\OneDrive\Documents\Projetos\sucos\Database1\Database1\bin\Debug\DatawharehouseSucos.dll
+C:\Users\paulo\OneDrive\Documents\Projetos\sucos\Database1\Database1\bin\Debug\DatawharehouseSucos.pdb
+C:\Users\paulo\OneDrive\Documents\Projetos\sucos\Database1\Database1\obj\Debug\DatawharehouseSucos.dll
+C:\Users\paulo\OneDrive\Documents\Projetos\sucos\Database1\Database1\obj\Debug\DatawharehouseSucos.pdb
